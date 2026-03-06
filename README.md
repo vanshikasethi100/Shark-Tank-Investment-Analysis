@@ -1,5 +1,6 @@
 # Shark-Tank-Investment-Analysis
 An end-to-end data analytics project examining the investment patterns and startup ecosystem of Shark Tank India. This project transforms raw, unstructured pitch data into a high-impact Power BI dashboard to uncover which industries dominate the "Tank" and how the Sharks distribute their capital.
+
 🛠️ Data Cleaning & Transformation:
 The raw dataset required extensive cleaning in Excel and Python to ensure KPI accuracy:
 1) Standardization: Cleaned Startup Names to remove duplicates and filled in missing names for data completeness.
